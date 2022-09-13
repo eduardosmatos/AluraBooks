@@ -46,9 +46,4 @@
     .banner__pesquisa::placeholder {
         background-position: 7em;
     }
-
-    .card {
-        width: 40%;
-        margin: 2em auto;
-    }
 }
