@@ -2,6 +2,7 @@
 
 <p align="center">Projeto elaborado para apresentar a plataforma Alura Books.</p>
 <p align="center">Desenvolvido para fixar conceitos de layout responsivo, colocando em prática um carrossel com SwiperJS pela primeira vez.</p>
+<p align="center">Projeto elaborado através do curso da Alura de HTML e CSS.</p>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
